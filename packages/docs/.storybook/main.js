@@ -27,7 +27,7 @@ const config = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/3scorp-ui-system/'
+      config.base = '/firecat-design-system/'
     }
 
     return config
