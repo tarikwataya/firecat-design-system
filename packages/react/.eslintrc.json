@@ -1,0 +1,3 @@
+{
+    "extends": "@firecat-ui/eslint-config"
+}
