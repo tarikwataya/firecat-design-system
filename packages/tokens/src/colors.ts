@@ -27,4 +27,6 @@ export const colors = {
 
   error300: '#FF4C51',
   error700: '#A33134',
+
+  test: '#FFF',
 }
