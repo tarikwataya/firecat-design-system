@@ -11,10 +11,10 @@ export const colors = {
   gray800: '#202024',
   gray900: '#121214',
 
-  corp300: '#EB2127',
-  corp500: '#B11016',
-  corp700: '#921016',
-  corp900: '#551016',
+  firecat300: '#2196f3',
+  firecat500: '#1465bb',
+  firecat700: '#003785',
+  firecat900: '#001540',
 
   info300: '#16B1FF',
   info700: '#0E71A3',
