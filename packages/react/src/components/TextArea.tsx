@@ -25,7 +25,7 @@ export const TextArea = styled('textarea', {
     cursos: 'not-allowed',
   },
 
-  '&:placeholder': {
+  '&::placeholder': {
     color: '$gray400',
   },
 })

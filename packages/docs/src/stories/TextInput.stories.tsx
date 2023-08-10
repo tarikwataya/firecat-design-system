@@ -30,5 +30,6 @@ export const Disabled: StoryObj<TextInputProps> = { args: { disabled: true } }
 export const WithPrefix: StoryObj<TextInputProps> = {
   args: {
     prefix: 'R$',
+    placeholder: '2.100',
   },
 }
